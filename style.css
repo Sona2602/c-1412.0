@@ -1,0 +1,53 @@
+body
+{
+   background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.modal-body
+{
+    font-size: x-large;
+}
+#title
+{
+    font-size: larger;
+}
+.foot
+{
+    bottom: 0;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    font-size :18px;
+    font-family: 'Cedarville Cursive', cursive;
+    position: fixed;
+    width: 100%;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 65px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+video
+{
+    border: 2px solid white;
+    border-radius: 10px;
+}
